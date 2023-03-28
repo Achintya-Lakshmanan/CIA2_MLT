@@ -1,6 +1,6 @@
 # 23_03_27_CIA2_MLT
  ## CIA2 Flask Application
- Prediction done using a simple 3-layered NN.
+ Prediction done using a simple 3-layered NN. (trained for 100 epochs)
 
  Dataset : https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
 
